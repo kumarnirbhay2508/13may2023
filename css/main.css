@@ -1,0 +1,34 @@
+body{
+    background-color: #e8e8e8;
+}
+.n_container{
+    border: 1px dashed red;
+   
+}
+header{
+    height: 82px;
+    border: 1px dashed;
+    width: 94.3%;
+    margin: auto;
+}
+footer{
+    height: 1315px;
+    border: 1px dashed;
+}
+main{
+    height: 3606px;
+    border: 1px solid;
+    top: 81.8px;
+}
+
+
+
+
+
+
+
+@media (min-width: 1400px){
+.container, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
+    max-width: 1458px;
+}
+}
